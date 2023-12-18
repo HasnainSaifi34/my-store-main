@@ -10,6 +10,18 @@
 # testing
 /coverage
 
+#.cache/replit
+/.cache
+
+#.config
+/.config
+
+#.swc
+/.swc
+
+#.upm
+/.upm
+
 # next.js
 /.next/
 /out/
