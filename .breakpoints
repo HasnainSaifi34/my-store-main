@@ -1,0 +1,20 @@
+{
+  "files": {
+    "pages/footer.tsx": [
+      {
+        "id": "1874dd20-3bc1-40c9-8895-88291dd418c5",
+        "line": 44,
+        "version": 115,
+        "index": 1639
+      }
+    ],
+    "pages/register.tsx": [
+      {
+        "id": "83f0abb6-2ac1-4724-8a26-b2d243ad6a2f",
+        "line": 4,
+        "version": 30,
+        "index": 120
+      }
+    ]
+  }
+}
